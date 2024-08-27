@@ -52,7 +52,3 @@ const SESSTION_AGE = 10 * 60000; // 10 minutes
 ```
 
 change port or user name and password
-
-<img src="https://www.uplooder.net/img/image/15/fd8d1c8ed2ea1e09e558f423ff2925ae/login-pm2.png" />
-<br /><br />
-<img src="https://www.uplooder.net/img/image/10/f9f161252a89283a2f5aa85b2b1e1718/pm2index.png" />
